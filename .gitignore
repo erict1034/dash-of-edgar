@@ -1,0 +1,14 @@
+.env
+.env.*
+
+__pycache__/
+*.py[cod]
+
+# Local app data and caches
+data/
+pages/data/
+
+# Editor / OS artifacts
+.vscode/
+.DS_Store
+Thumbs.db
